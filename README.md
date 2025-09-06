@@ -1,3 +1,3 @@
-qution 1;
-ans:]
-folshfoeonfoeofoe
+#Question-1: what is difference between getElementById,getElementByClassName,querySelector,querySelectorAll
+#ANS:
+
